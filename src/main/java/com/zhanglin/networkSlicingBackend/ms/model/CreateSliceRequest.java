@@ -1,13 +1,11 @@
-package com.zhanglin.networkSlicingBackend.ms.entity;
+package com.zhanglin.networkSlicingBackend.ms.model;
 
 import lombok.Data;
 
 @Data
-public class Slice {
+public class CreateSliceRequest {
     private String slice_id;
     private String name;
-    private String create_time;
-    private String nodeList;
     private String priority;
     private String status;
 }

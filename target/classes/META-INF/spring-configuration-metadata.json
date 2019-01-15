@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "",
+      "type": "com.zhanglin.networkSlicingBackend.ms.service.impl.RyuRestService",
+      "sourceType": "com.zhanglin.networkSlicingBackend.ms.service.impl.RyuRestService"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

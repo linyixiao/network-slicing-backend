@@ -15,6 +15,7 @@ import javax.validation.Valid;
 @Slf4j
 @RestController
 @CrossOrigin
+@RequestMapping("api/userManagement")
 public class UserManagementController {
 
 
